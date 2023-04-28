@@ -11,7 +11,7 @@
   "dependencies": {
     "@monaco-editor/react": "^4.3.1",
     "@onflow/fcl": "0.0.77",
-    "@onflow/types": "0.0.5",
+    "@onflow/types": "0.0.6",
     "bn.js": "^5.2.0",
     "cids": "^1.1.9",
     "elliptic": "^6.5.4",
