@@ -31,7 +31,7 @@
     "elliptic": "^6.5.4",
     "fs-extra": "^10.0.0",
     "handlebars": "^4.7.7",
-    "inquirer": "^8.0.0",
+    "inquirer": "^8.2.5",
     "json-colorizer": "^2.2.2",
     "multiformats": "^9.5.1",
     "mute-stdout": "^2.0.0",
