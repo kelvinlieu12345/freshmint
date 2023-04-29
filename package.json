@@ -33,7 +33,7 @@
     "handlebars": "^4.7.7",
     "inquirer": "^8.0.0",
     "json-colorizer": "^2.2.2",
-    "multiformats": "^9.5.1",
+    "multiformats": "^9.9.0",
     "mute-stdout": "^2.0.0",
     "nebulus": "0.0.11",
     "nft.storage": "^3.3.0",
